@@ -42,7 +42,8 @@ export function Hero() {
         </div>
       </div>
 
-      <div className="hero__visual" aria-label="Profile summary">
+      <div className="hero__visual" aria-label="Profile summar
+      ">
         {/* <div className="hero__portrait-shell" aria-hidden="true" /> */}
 
         <ul className="hero__metrics" aria-label="Key metrics">
